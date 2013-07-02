@@ -1,7 +1,5 @@
-HLSScripts
+HLSScripts (for CentOS6 64bit) 的部署过程
 ==========
-
-for CentOS6 64bit
 
 #### 添加关联软件的yum源：RPMForge和Fedora
     # rpm -ivh http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.2-2.el6.rf.i686.rpm
