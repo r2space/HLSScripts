@@ -1,4 +1,4 @@
-HLSScripts (for CentOS6 64bit) 的部署过程
+## HLSScripts (CentOS6 64bit) 的部署过程
 ==========
 
 #### 添加关联软件的yum源：RPMForge和Fedora
